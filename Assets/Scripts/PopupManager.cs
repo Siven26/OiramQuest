@@ -59,6 +59,10 @@ public class PopupManager : MonoBehaviour
 
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 
+<<<<<<< HEAD
+=======
+        // Ensure camera is re-enabled
+>>>>>>> deb3bb62a7bed19a9bb80dfc92f2f55c098ce659
         if (cameraController != null)
             cameraController.enabled = true;
     }

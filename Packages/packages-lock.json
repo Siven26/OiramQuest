@@ -67,6 +67,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.postprocessing": {
       "version": "3.4.0",
       "depth": 0,
@@ -90,6 +91,11 @@
     "com.unity.settings-manager": {
       "version": "2.0.1",
       "depth": 1,
+=======
+    "com.unity.settings-manager": {
+      "version": "2.0.1",
+      "depth": 2,
+>>>>>>> deb3bb62a7bed19a9bb80dfc92f2f55c098ce659
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
